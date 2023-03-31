@@ -1,0 +1,13 @@
+
+ nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+div{
+    color: white;
+}
+*{
+background-color: black;
+}
